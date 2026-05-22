@@ -1,0 +1,8 @@
+{
+  "name": "DevCraft Portfolio",
+  "description": "A high-converting, modern developer portfolio optimized for hiring impact, featuring a premium UI, smooth animations, and structured storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
