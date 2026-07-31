@@ -77,6 +77,26 @@ export const portfolioData = {
       liveUrl: "https://movies-website-nine-beta.vercel.app/",
       githubUrl: "https://github.com/polanaeem1/Movies_Website",
       image: "/project-1.png",
+    },
+    {
+      id: "pro-4",
+      title: "Ecommerce Website",
+      description: "An ecommerce website that sells clothes and accessories.",
+      techStack: ["Next.js", "React Query", "Tailwind CSS"],
+      problemSolved: "Created an ecommerce website that sells clothes and accessories.",
+      liveUrl: "https://clothing-brand-three-xi.vercel.app/",
+      githubUrl: "https://github.com/polanaeem1/Clothing_brand",
+      image: "/project-4.png",
+    },
+    {
+      id: "pro-5",
+      title: "Cosmetics Website",
+      description: "An ecommerce website that sells cosmetics.",
+      techStack: ["Next.js", "React Query", "Tailwind CSS"],
+      problemSolved: "Created an ecommerce website that sells cosmetics.",
+      liveUrl: "https://cosmetics-brand-eight.vercel.app/",
+      githubUrl: "https://github.com/polanaeem1/Cosmetics_brand",
+      image: "/project-5.png",
     }
   ],
   experience: [
